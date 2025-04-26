@@ -49,6 +49,6 @@ The project highlights the efficacy of Isolation Forest and LOF in detecting fra
 ## How to Use  
 1. Clone this repository:  
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Janhvi-20/Credit-Card-Fraud-Detection>
    pip install -r requirements.txt
    jupyter notebook main.ipynb
